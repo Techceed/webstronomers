@@ -1,0 +1,255 @@
+
+
+/* TABLE OF CONTENTS
+	1. Template Green
+*/
+
+/* 1. Template Green */
+.background {
+  background-color: #F2B44E;
+}
+
+.preloader .spinner .double-bounce1,
+.preloader .spinner .double-bounce2 {
+  background: #F2B44E;
+}
+
+.lnk:hover,
+.button:hover {
+  color: #F2B44E;
+}
+
+.lnk:hover .ion,
+.button:hover .ion {
+  color: #F2B44E;
+}
+
+.lnk:hover .arrow:before,
+.button:hover .arrow:before,
+.lnk:hover .arrow:after,
+.button:hover .arrow:after {
+  background: #F2B44E;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  border-bottom: 1px solid #F2B44E;
+}
+
+button:hover {
+  border-bottom: 1px solid #F2B44E;
+}
+
+.header .top-menu ul li:hover a,
+.header .top-menu ul li.active a {
+  color: #F2B44E;
+}
+
+.header .top-menu ul li:hover a .icon,
+.header .top-menu ul li.active a .icon,
+.header .top-menu ul li:hover a .link,
+.header .top-menu ul li.active a .link {
+  color: #F2B44E;
+}
+
+.card-started:after {
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
+}
+
+.card-started .profile .image:before {
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
+}
+
+.card-started .profile .subtitle {
+  color: #F2B44E;
+}
+
+.card-started .profile .social a:hover .ion,
+.card-started .profile .social a:hover .fab,
+.card-started .profile .social a:hover .fas {
+  color: #F2B44E;
+}
+
+.content .title:before {
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
+}
+
+.service-items .service-item .icon {
+  color: #F2B44E;
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
+}
+
+.pricing-items .pricing-item .icon {
+  color: #F2B44E;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+  background: #F2B44E;
+}
+
+.fuct-items .fuct-item .icon {
+  color: #F2B44E;
+}
+
+.resume-title .icon,
+.skill-title .icon {
+  color: #F2B44E;
+}
+
+.resume-items .resume-item.active .date {
+  color: #F2B44E;
+}
+
+.resume-items .resume-item.active .date:before {
+  background: #F2B44E;
+}
+
+.skills-list ul li .progress .percentage {
+  background: #F2B44E;
+}
+
+.content.works .filter-menu .f_btn.active {
+  color: #F2B44E;
+}
+
+.box-item .image .info:before {
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
+}
+
+.post-box .blog-content blockquote {
+  border-left: 2px solid #F2B44E;
+}
+
+.post-box .blog-content ul.list-style li:before {
+  background: #F2B44E;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+  color: #F2B44E;
+}
+
+.background.gradient {
+  background: #F2B44E;
+  background: -webkit-linear-gradient(top left, #F2B44E 0%, #F2B44E 100%);
+  background: linear-gradient(to bottom right, #F2B44E 0%, #F2B44E 100%);
+}
+
+/*
+  New Styles
+*/
+
+.skills-list.list ul li .name:before {
+  color: #F2B44E;
+}
+
+.skills-list.dotted ul li .progress .da span {
+  background: #F2B44E!important;
+}
+
+.skills-list.circles .progress .bar, 
+.skills-list.circles .progress.p51 .fill, 
+.skills-list.circles .progress.p52 .fill, 
+.skills-list.circles .progress.p53 .fill, 
+.skills-list.circles .progress.p54 .fill, 
+.skills-list.circles .progress.p55 .fill, 
+.skills-list.circles .progress.p56 .fill, 
+.skills-list.circles .progress.p57 .fill, 
+.skills-list.circles .progress.p58 .fill, 
+.skills-list.circles .progress.p59 .fill, 
+.skills-list.circles .progress.p60 .fill, 
+.skills-list.circles .progress.p61 .fill, 
+.skills-list.circles .progress.p62 .fill, 
+.skills-list.circles .progress.p63 .fill, 
+.skills-list.circles .progress.p64 .fill, 
+.skills-list.circles .progress.p65 .fill, 
+.skills-list.circles .progress.p66 .fill, 
+.skills-list.circles .progress.p67 .fill, 
+.skills-list.circles .progress.p68 .fill, 
+.skills-list.circles .progress.p69 .fill, 
+.skills-list.circles .progress.p70 .fill, 
+.skills-list.circles .progress.p71 .fill, 
+.skills-list.circles .progress.p72 .fill, 
+.skills-list.circles .progress.p73 .fill, 
+.skills-list.circles .progress.p74 .fill, 
+.skills-list.circles .progress.p75 .fill, 
+.skills-list.circles .progress.p76 .fill, 
+.skills-list.circles .progress.p77 .fill, 
+.skills-list.circles .progress.p78 .fill, 
+.skills-list.circles .progress.p79 .fill, 
+.skills-list.circles .progress.p80 .fill, 
+.skills-list.circles .progress.p81 .fill, 
+.skills-list.circles .progress.p82 .fill, 
+.skills-list.circles .progress.p83 .fill, 
+.skills-list.circles .progress.p84 .fill, 
+.skills-list.circles .progress.p85 .fill, 
+.skills-list.circles .progress.p86 .fill, 
+.skills-list.circles .progress.p87 .fill, 
+.skills-list.circles .progress.p88 .fill, 
+.skills-list.circles .progress.p89 .fill, 
+.skills-list.circles .progress.p90 .fill, 
+.skills-list.circles .progress.p91 .fill, 
+.skills-list.circles .progress.p92 .fill, 
+.skills-list.circles .progress.p93 .fill, 
+.skills-list.circles .progress.p94 .fill, 
+.skills-list.circles .progress.p95 .fill, 
+.skills-list.circles .progress.p96 .fill, 
+.skills-list.circles .progress.p97 .fill, 
+.skills-list.circles .progress.p98 .fill, 
+.skills-list.circles .progress.p99 .fill, 
+.skills-list.circles .progress.p100 .fill {
+  border: 0.09em solid #F2B44E;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #F2B44E;
+}
+
+.card-started .profile .subtitle, 
+.card-started .profile .typed-cursor {
+  color: #F2B44E;
+}
+
+.content .title .first-word {
+  color: #F2B44E;
+}
+
+.content .title::first-letter,
+.content .title .first-letter::first-letter {
+  color: #F2B44E;
+}
+
+.new-skin .service-items .service-item .icon {
+  background: #F2B44E!important;
+}
+
+.resume-items .resume-item.active .date {
+  border-color: #F2B44E;
+}
+
+.box-item:hover .desc .name {
+  color: #F2B44E;
+}
+
+.new-skin .info-list ul li strong {
+  background: #F2B44E;
+}
+
+.revs-carousel .owl-dots .owl-dot {
+  border-color: #F2B44E;
+}
+
+.revs-carousel .owl-dot.active {
+  background: #F2B44E;
+}
