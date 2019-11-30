@@ -507,9 +507,9 @@ function initMap() {
 	'use strict';
 	
 	// load html
-	$.get("https://bslthemes.com/ryan/bar/bar.html", function (data) {
-        $('body').append(data);
- 		console.log(data);
-    });
+	// $.get("https://bslthemes.com/ryan/bar/bar.html", function (data) {
+    //     $('body').append(data);
+ 	// 	console.log(data);
+    // });
 	
 } )( jQuery );

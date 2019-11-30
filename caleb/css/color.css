@@ -6,7 +6,7 @@
 
 /* 1. Template Green */
 .background {
-  background-color: rgba(120, 204, 109, 0.4);
+  background-color: #F2B44E;
 }
 
 .preloader .spinner .double-bounce1,
@@ -54,15 +54,15 @@ button:hover {
 }
 
 .card-started:after {
-  background: -moz-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: -webkit-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: linear-gradient(135deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
 }
 
 .card-started .profile .image:before {
-  background: -moz-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: -webkit-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: linear-gradient(135deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
 }
 
 .card-started .profile .subtitle {
@@ -76,16 +76,16 @@ button:hover {
 }
 
 .content .title:before {
-  background: -moz-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: -webkit-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: linear-gradient(135deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
 }
 
 .service-items .service-item .icon {
   color: #F2B44E;
-  background: -moz-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: -webkit-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: linear-gradient(135deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
 }
 
 .pricing-items .pricing-item .icon {
@@ -93,7 +93,7 @@ button:hover {
 }
 
 .pricing-items .pricing-item .feature-list ul li strong {
-  background: rgba(120, 204, 109, 0.4);
+  background: #F2B44E;
 }
 
 .fuct-items .fuct-item .icon {
@@ -122,9 +122,9 @@ button:hover {
 }
 
 .box-item .image .info:before {
-  background: -moz-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: -webkit-linear-gradient(-45deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
-  background: linear-gradient(135deg, rgba(120, 204, 109, 0.4) 0%, rgba(120, 204, 109, 0.01) 100%);
+  background: -moz-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: -webkit-linear-gradient(-45deg, #FAE7C6, #F9DFB4);
+  background: linear-gradient(135deg, #FAE7C6, #F9DFB4);
 }
 
 .post-box .blog-content blockquote {

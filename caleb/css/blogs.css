@@ -1,10 +1,3 @@
-/**
-*	Ryan - Resume/CV/vCard Template (HTML)
-*	Version: 2.0
-*	Author: beshleyua
-*	Author URL: http://themeforest.net/user/beshleyua
-*	Copyright © Cvio by beshleyua. All Rights Reserved.
-**/
 
 /* TABLE OF CONTENTS
 	1. Blog Post
@@ -41,7 +34,7 @@
 	color: #626262;
 	font-style: italic;
 	font-weight: 300;
-	border-left: 2px solid #78cc6d;
+	border-left: 2px solid #F2B44E;
 }
 
 .post-box .blog-content ul.list-style {
@@ -66,7 +59,7 @@
 	top: 50%;
 	width: 4px;
 	height: 4px;
-	background: #78cc6d;
+	background: #F2B44E;
 	border-radius: 4px;
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
@@ -153,7 +146,7 @@
 	margin: 0;
 	font-size: 14px;
 	line-height: 14px;
-	color: #78cc6d;
+	color: #F2B44E;
 }
 
 .post-box .post-comments li .comment-info .name h6 span {

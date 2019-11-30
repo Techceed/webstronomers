@@ -1,10 +1,4 @@
-/**
-* Ryan - Resume/CV/vCard Template (HTML)
-* Version: 2.0
-* Author: beshleyua
-* Author URL: http://themeforest.net/user/beshleyua
-* Copyright © Cvio by beshleyua. All Rights Reserved.
-**/
+
 
 /* TABLE OF CONTENTS
 	1. Gradient
@@ -16,9 +10,9 @@
 
 
 .background.gradient {
-  background: #50a3a2;
-  background: -webkit-linear-gradient(top left, #50a3a2 0%, #78cc6d 100%);
-  background: linear-gradient(to bottom right, #50a3a2 0%, #78cc6d 100%);
+  background: #F2B44E;
+  background: -webkit-linear-gradient(top left, #F2B44E 0%, #F2B44E 100%);
+  background: linear-gradient(to bottom right, #F2B44E 0%, #F2B44E 100%);
   position: fixed;
   overflow: hidden;
   top: 0;
